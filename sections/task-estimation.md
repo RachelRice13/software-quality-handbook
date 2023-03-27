@@ -27,6 +27,6 @@ There are many different methods used when estimating tasks, including Planning 
 ## Bad Practices
 
 ## References
-- Top 8 Agile Estimation Techniques (Explained with Examples) https://www.netsolutions.com/insights/how-to-estimate-projects-in-agile/#what-is-estimation-in-agile 
-- Tips for Effective Tasks Estimation in Scrum Planning Meetings https://liuhongbo.medium.com/tips-for-effective-task-estimation-in-scrum-planning-meetings-c7a6af2c4966
-- Top 5 Scrum Estimation Techniques - Find Your Best Fit https://www.knowledgehut.com/blog/agile/top-5-scrum-estimation-techniques-find-your-best-fit 
+- [Top 8 Agile Estimation Techniques(Explained with Examples)](https://www.netsolutions.com/insights/how-to-estimate-projects-in-agile/#what-is-estimation-in-agile )  
+- [Tips for Effective Tasks Estimation in Scrum Planning Meetings](https://liuhongbo.medium.com/tips-for-effective-task-estimation-in-scrum-planning-meetings-c7a6af2c4966)
+- [Top 5 Scrum Estimation Techniques - Find Your Best Fit]( https://www.knowledgehut.com/blog/agile/top-5-scrum-estimation-techniques-find-your-best-fit)
