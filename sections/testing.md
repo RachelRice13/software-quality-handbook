@@ -54,7 +54,13 @@ Here are some the most important practices to follow in task estimation in Scrum
 10. Not continuously monitoring and reviewing the testing process, which can lead to missed opportunities for improvement.
 
 ## References
-[A COMPLETE GUIDE ON SOFTWARE TESTING](https://www.leewayhertz.com/software-testing-process/) by LeewayHertaz
+[A COMPLETE GUIDE ON SOFTWARE TESTING](https://www.leewayhertz.com/software-testing-process/)
+
+[What is Software Testing? Definition](https://www.guru99.com/software-testing-introduction-importance.html)
+
+[The different types of software testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
+
+[Software Testing Tutorial](https://www.javatpoint.com/software-testing-tutorial)
 
 [Ammann, P., & Offutt, J. (2016). Introduction to software testing. Cambridge University Press.](https://books.google.ie/books?hl=zh-CN&lr=&id=58LeDQAAQBAJ&oi=fnd&pg=PR10&dq=software+testing&ots=VAkXKNVO-Y&sig=_S6-G8AA-7L56TlZe_RhyyowGW0&redir_esc=y#v=onepage&q=software%20testing&f=false)
 
