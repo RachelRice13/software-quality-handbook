@@ -5,7 +5,7 @@ Welcome to the Company Handbook on Software Quality! This handbook is a compilat
 This handbook is organized into three main sections: 
  - Task Estimation in Scrum, 
  - Code Reviews,  
- - Automated Testing. 
+ - Software Testing. 
  
  Each section will provide a brief overview of the topic, followed by a summary of the most important guidelines and bad practices to avoid. We have also included links to reference articles for further reading.
 
@@ -15,7 +15,7 @@ We encourage every team member to read this handbook thoroughly and incorporate 
 - [Project Plan](project-plan.md)
 - [Task Estimation in Scrum](./sections/task-estimation.md)
 - [Code Reviews](./sections/code-reviews.md)
-- [Automated Testing](./sections/testing.md)
+- [Software Testing](./sections/testing.md)
 
 ## Authors
 - Emma McGuinness
