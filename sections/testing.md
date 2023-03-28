@@ -28,7 +28,7 @@ Automation Testing involves the process of using automated tools to run the test
 
 Both manual testing and automation testing have their own advantages and disadvantages. It is important to choose the right type of testing based on the project requirements, budget, and timeline. A combination of both manual and automation testing can provide the best results.
 
-## Good Practices:
+## Good Practices
 Here are some the most important practices to follow in task estimation in Scrum:
 1. Plan your testing efforts and establish clear objectives and goals.
 2. Use a combination of automated and manual testing methods to cover a wide range of scenarios and edge cases.
@@ -40,7 +40,7 @@ Here are some the most important practices to follow in task estimation in Scrum
 8. Use a variety of testing techniques, such as unit testing, integration testing, and user acceptance testing, to ensure comprehensive coverage.
 9. Ensure that testing is part of the continuous integration and deployment process.
 10. Continuously monitor and review the testing process to identify areas for improvement.
-## Bad Practices:
+## Bad Practices
 Here are some the most important practices to follow in task estimation in Scrum:
 1. Relying solely on manual testing, which can be time-consuming and error-prone.
 2. Ignoring testing in the early stages of development, which can lead to more bugs and issues later on.
@@ -54,14 +54,10 @@ Here are some the most important practices to follow in task estimation in Scrum
 10. Not continuously monitoring and reviewing the testing process, which can lead to missed opportunities for improvement.
 
 ## References
-[A COMPLETE GUIDE ON SOFTWARE TESTING](https://www.leewayhertz.com/software-testing-process/)
+* [A COMPLETE GUIDE ON SOFTWARE TESTING](https://www.leewayhertz.com/software-testing-process/)
 
-[What is Software Testing? Definition](https://www.guru99.com/software-testing-introduction-importance.html)
+* [What is Software Testing? Definition](https://www.guru99.com/software-testing-introduction-importance.html)
 
-[The different types of software testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
+* [The different types of software testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 
-[Software Testing Tutorial](https://www.javatpoint.com/software-testing-tutorial)
-
-[Ammann, P., & Offutt, J. (2016). Introduction to software testing. Cambridge University Press.](https://books.google.ie/books?hl=zh-CN&lr=&id=58LeDQAAQBAJ&oi=fnd&pg=PR10&dq=software+testing&ots=VAkXKNVO-Y&sig=_S6-G8AA-7L56TlZe_RhyyowGW0&redir_esc=y#v=onepage&q=software%20testing&f=false)
-
-[Everett, G. D., & McLeod Jr, R. (2007). Software testing. Testing Across the Entire.](http://worldcolleges.info/sites/default/files/software-testing-testing-across-the-entire-software-development-life-cycle.9780471793717.28214.pdf)
+* [Software Testing Tutorial](https://www.javatpoint.com/software-testing-tutorial)
