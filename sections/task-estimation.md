@@ -14,6 +14,19 @@ Task estimation is important in Scrum because it helps teams plan effectively, p
 
 4. <b>Monitoring progress:</b> Task estimation helps teams track progress and make necessary adjustments to their plan if they find they are unable to complete their tasks as expected. This may involve re-estimating or adjusting the amount of work that needs to be done.
 
+## Challenges
+There are various challenges associated with estimating tasks in software development projects. These include:
+1. <b>Changing requirements:</b> In Scrum, requirements can change frequently as the project progresses. This can make it challenging to accurately estimate the effort required for each task.
+
+2. <b>Inaccurate estimates:</b> Despite efforts to accurately estimate tasks, there may be times when the estimates are inaccurate. This can result in delays or unexpected roadblocks.
+
+3. <b>Ambiguity:</b> Estimating tasks involves predicting the future, which can be challenging when there is a lack of clarity around requirements or scope of work.
+
+4. <b>Complexity:</b> Many software development tasks are complex and involve multiple variables, making it difficult to accurately estimate the effort required.
+
+5. <b>Time pressure:</b> Teams may be under pressure to provide estimates quickly, which can lead to rushed or inaccurate estimates.
+
+
 ## Methods for Task Estimation
 There are many different methods used when estimating tasks, including Planning Poker, T-Shirt Size Estimation and The Bucket System Estimation, to name a few. 
 
