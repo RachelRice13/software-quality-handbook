@@ -2,6 +2,18 @@
 ## Introduction 
 Task Estimation is an essential part of the agile process, it allows developers to estimate the effort needed to complete tasks from the product backlog. It allows developers to measure how much time a task will take and plan sprints more accurately. Task Estimation occurs during a Sprint Planning meeting, which is a time-boxed event where the team will discuss and determine the work that will be done in the upcoming sprint. Task Estimation is crucial in helping the team to understand the capacity they have for the upcoming sprint and to prioritize the work that needs to be done.
 
+
+## Benefits
+Task estimation is important in Scrum because it helps teams plan effectively, predict delivery times, make better decisions, and monitor progress.
+
+1. <b>Effective planning:</b> Task estimation helps teams plan the amount of work that needs to be done at the start of each iteration in Scrum. If task estimation is accurate, teams can better understand how much work they can complete in each iteration and make necessary adjustments based on their progress.
+
+2. <b>Predicting delivery times:</b> Task estimation can help teams predict when a project will be delivered. This enables project managers, product owners, and other stakeholders to plan their time and resources accordingly.
+
+3. <b>Better decision-making:</b> Task estimation provides a basis for decision-making. By understanding which tasks will take more time and resources, teams can better decide which tasks should be completed in which iteration and which tasks may need to be prioritized.
+
+4. <b>Monitoring progress:</b> Task estimation helps teams track progress and make necessary adjustments to their plan if they find they are unable to complete their tasks as expected. This may involve re-estimating or adjusting the amount of work that needs to be done.
+
 ## Methods for Task Estimation
 There are many different methods used when estimating tasks, including Planning Poker, T-Shirt Size Estimation and The Bucket System Estimation, to name a few. 
 
