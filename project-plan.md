@@ -44,3 +44,13 @@
 	- emma-code-review 
 	- yike-testing 
 - [Reference](https://www.scaler.com/topics/git/git-branch-naming-conventions/)
+
+## What We Would Do Differently
+
+-	Stick to the plan 
+-	Walk through doing our first pull request together to ensure we were all doing the same thing
+
+-	Schedule more regular meetings rather than just texting to ensure that we were all on the same page
+
+- 	Set realistic deadlines to follow 
+
