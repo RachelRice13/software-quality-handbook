@@ -54,3 +54,8 @@
 
 - 	Set realistic deadlines to follow 
 
+-	Improve communication
+- 	Standardize processes
+- 	Learn from mistakes
+
+
