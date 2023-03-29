@@ -16,19 +16,17 @@ According to (Herbi, 2018), they used pair programming when working on a task wh
 
 ![Benefits of Pair Programming Image](../images/PairProgramming.jpg)
 
-**Benefits of Pair Programming**
--	Transfers knowledge
--	Improved code quality
--	Solves complex problems 
--	Greater resilience
--	Fewer bugs and mistakes
--	Better team Morale
+**Benefits and Drawbacks of Pair Programming**
 
-**Drawbacks of Pair Programming**
--	Time-consuming 
--	Higher development costs
--	Can be overused 
--	Sustainability
+|     | Benefits                | Drawbacks                |     |
+| :-- | ----------------------- | ------------------------ | --- |
+|     | Transfers knowledge     | Time-consuming           |     |
+|     | Improved code quality   | Higher development costs |     |
+|     | Solves complex problems | Can be overused          |     |
+|     | Greater resilience      | Sustainability           |     |
+|     | Fewer bugs and mistakes |                          |     |
+|     | Better team Morale      |                          |     |
+
 
 **2. Synchronous code review – Over-the-shoulder code review**
 
@@ -36,21 +34,15 @@ Here the coder produces the code themself and asks the reviewer for a review imm
 
 ![Over-the-Shoulder Review Process Image](../images/overTheShoulder.png)
 
-**Benefits of Over-the-shoulder Reviews**
--	Easy implementation and completion 
--	Collaboration
--	Can be conducted remotely 
--	No training needed
--	In-person learning
--	Faster than pair programming 
-
-**Drawbacks of Over-the-shoulder Reviews**
--	Reviewer is detached from code
--	Lack of Traceability 
--	Location
--	Not an enforceable process
--	No verification that changes were made 
--	Difficult to measure
+**Benefits and Drawbacks of Over-the-shoulder Reviews**
+|     | Benefits                           | Drawbacks                              |     |
+| :-- | ---------------------------------- | -------------------------------------- | --- |
+|     | Easy implementation and completion | Reviewer is detached from code         |     |
+|     | Collaboration                      | Lack of Traceability                   |     |
+|     | Can be conducted remotely          | Location                               |     |
+|     | No training needed                 | Not an enforceable process             |     |
+|     | In-person learning                 | No verification that changes were made |     |
+|     | Faster than pair programming       | Difficult to measure                   |     |
 
 ## Best Practices
 1. **Don't review more than 200-400 lines of code at a time**
