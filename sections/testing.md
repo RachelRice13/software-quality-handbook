@@ -106,14 +106,15 @@ Here are some the most important practices to follow in task estimation in Scrum
 10. Not continuously monitoring and reviewing the testing process, which can lead to missed opportunities for improvement.
 
 ## References
-* [A COMPLETE GUIDE ON SOFTWARE TESTING](https://www.leewayhertz.com/software-testing-process/)
+* [A COMPLETE GUIDE ON SOFTWARE TESTING](https://www.leewayhertz.com/software-testing-process/) By Akash Takyar
 
-* [What is Software Testing? Definition](https://www.guru99.com/software-testing-introduction-importance.html)
+* [What is Software Testing? Definition](https://www.guru99.com/software-testing-introduction-importance.html) By Thomas Hamilton
 
-* [The different types of software testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
+* [The different types of software testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing) By Atlassian
 
-* [Software Testing Tutorial](https://www.javatpoint.com/software-testing-tutorial)
+* [Software Testing Tutorial](https://www.javatpoint.com/software-testing-tutorial) By Java Point
 
-*	[Type of Testing Techniques](https://securityboulevard.com/2022/08/types-of-testing-techniques-black-white-and-grey-box/)
-*	[Grey Box Testing](https://www.veracode.com/security/gray-box-testing)
+*	[Type of Testing Techniques](https://securityboulevard.com/2022/08/types-of-testing-techniques-black-white-and-grey-box/) By Ishita
+
+*	[Grey Box Testing](https://www.veracode.com/security/gray-box-testing) By VeraCode
 
