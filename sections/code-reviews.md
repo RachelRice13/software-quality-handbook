@@ -2,7 +2,7 @@
 ## Introduction
 Making code better is the main goal of code reviews. Reviewing another person's code, however, is much easier said than done. Code review, also referred to as a peer code review, entails one or more team members reviewing the work of another team member. This entails reviewing source code modifications prior to their incorporation into the codebase.
 
-![Code review methods](../sections/images/codeReview.jpg)
+![Code review methods](../images/codeReview.jpg)
 
 ## Methods for Code Reviews
 
@@ -12,7 +12,7 @@ Code reviews can be divided into 4 sub categories:
 Pair programming is when one developer is producing code and the other developer is reviewing the code right on the spot, paying attention to potential issues and giving ideas for code improvement on the go. 
 According to (Herbi, 2018), they used pair programming when working on a task which requires a lot of complex business logic. Pair programming works well when two developers with a similar level of experience work together on solving a complex business problem.
 
-![Code review methods](../sections/images/pairProgramming.jpg)
+![Code review methods](../images/pairProgramming.jpg)
 
 **Benefits of Pair Programming**
 -	Transfers knowledge
@@ -31,7 +31,7 @@ According to (Herbi, 2018), they used pair programming when working on a task wh
 
 **2.Synchronous code review – Over-the-shoulder code review**
 Here the coder produces the code themself and asks the reviewer for a review immediately when they are done with coding. The reviewer joins the coder at their desk, and they look at the same screen while reviewing, discussing, and improving the code together.
-![Code review methods](../sections/images/overTheShoulder.png)
+![Code review methods](../images/overTheShoulder.png)
 
 **Benefits of Over-the-shoulder Reviews**
 -	Easy implementation and completion 
