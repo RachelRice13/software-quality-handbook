@@ -1,6 +1,7 @@
 # Code Reviews
 ## Introduction
-Making code better is the main goal of code reviews. Reviewing another person's code, however, is much easier said than done. Code review, also referred to as a peer code review, entails one or more team members reviewing the work of another team member. This entails reviewing source code modifications prior to their incorporation into the codebase.
+Code Review (or peer code review) is an important step in the software development process. It is the act of getting a  fellow programmers to check each other's code for mistakes before it is merged into a branch. 
+The main goal of a code review is to make the code better. Reviewing another person's code, however, is much easier said than done. Code review entails one or more team members reviewing the work of another team member. This entails reviewing source code modifications prior to their incorporation into the codebase. Code reviews have repeatedly shown to accelerate and streamline the process of software development.
 
 ![Code review methods](../images/codeReview.jpg)
 
@@ -74,3 +75,5 @@ Here the coder produces the code themself and asks the reviewer for a review imm
 - [For better code and happier devs - six code review pitfalls to avoid](https://polarsquad.com/blog/make-code-reviews-work) by Risto Laurikainen
 - [Best code review practices: 5 errors to avoid](https://www.promyze.com/code-review-best-practices/) by Promyze
 - [Good and bad Code Review examples](https://medium.com/transparent-data-eng/good-and-bad-code-review-examples-219c0024e6b0) by Mateusz Antkowiak
+- [What is a code review](https://about.gitlab.com/topics/version-control/what-is-code-review/) by GitLab
+- [What is Code Review?](https://smartbear.com/learn/code-review/what-is-code-review/) by Smartbear
